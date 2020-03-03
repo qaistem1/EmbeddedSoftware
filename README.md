@@ -1,4 +1,4 @@
-# Embedded_Software
+# Embedded Software
 
 Codes for LPC1343, STM8 and STM32, includes the following:
 
